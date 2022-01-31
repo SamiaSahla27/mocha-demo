@@ -4,7 +4,8 @@ class MyClass{
     constructor(){
         console.log("initiate"); 
     }
-
+   
+    //commit
     sayhello(str){
         console.log(str);
     }
